@@ -1,4 +1,4 @@
-name: Salesforce CI
+name: Salesforce CI1
 
 on:
   pull_request:
