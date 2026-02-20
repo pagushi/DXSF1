@@ -15,3 +15,4 @@ console.log('✅ server.key (private key) generated');
 // Save public key
 fs.writeFileSync('server.crt', publicKey);
 console.log('✅ server.crt (public key) generated');
+sdafaf
